@@ -6246,7 +6246,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
     </carrier_config>
-    <!--芬兰 FI Elisa-->
+    <!--芬兰 FI Eredwood-->
     <carrier_config mcc="244" mnc="05">
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
@@ -6282,7 +6282,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
     </carrier_config>
-    <!--爱沙尼亚 EE Elisa-->
+    <!--爱沙尼亚 EE Eredwood-->
     <carrier_config mcc="248" mnc="02">
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />

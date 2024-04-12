@@ -1,4 +1,4 @@
-# Device proprietary files - from miui_LISAGlobal_V14.0.7.0.TKOMIXM package, unless pinned
+# Device proprietary files - from miui_redwoodGlobal_V14.0.7.0.TKOMIXM package, unless pinned
 
 # ACDB
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
@@ -493,33 +493,33 @@ vendor/lib64/camera/plugins/com.xiaomi.plugin.sr.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.supernight.so
 
 # Camera sensors
-vendor/lib64/camera/com.qti.actuator.lisa_ofilm_s5kgw3_dw9800_wide.so
-vendor/lib64/camera/com.qti.actuator.lisa_semco_s5kgw3_dw9800_wide.so
-vendor/lib64/camera/com.qti.eeprom.lisa_ofilm_imx355_gt24p64e_ultra_eeprom.so
-vendor/lib64/camera/com.qti.eeprom.lisa_ofilm_s5k5e9yx04_gt24p64e_macro_eeprom.so
-vendor/lib64/camera/com.qti.eeprom.lisa_ofilm_s5kgw3_gt24p128e_wide_eeprom.so
-vendor/lib64/camera/com.qti.eeprom.lisa_semco_s5kgw3_gt24p128e_wide_eeprom.so
-vendor/lib64/camera/com.qti.eeprom.lisa_sunny_s5k3t2_gt24p64_front_eeprom.so
-vendor/lib64/camera/com.qti.eeprom.lisa_sunny_s5k5e9yx04_gt24p64e_macro_eeprom.so
-vendor/lib64/camera/com.qti.sensor.lisa_ofilm_imx355_ultra.so
-vendor/lib64/camera/com.qti.sensor.lisa_ofilm_s5k5e9yx04_macro.so
-vendor/lib64/camera/com.qti.sensor.lisa_ofilm_s5kgw3_wide.so
-vendor/lib64/camera/com.qti.sensor.lisa_semco_s5kgw3_wide.so
-vendor/lib64/camera/com.qti.sensor.lisa_sunny_s5k3t2_front.so
-vendor/lib64/camera/com.qti.sensor.lisa_sunny_s5k5e9yx04_macro.so
-vendor/lib64/camera/com.qti.sensormodule.lisa_ofilm_imx355_ultra.bin
-vendor/lib64/camera/com.qti.sensormodule.lisa_ofilm_s5k5e9yx04_macro.bin
-vendor/lib64/camera/com.qti.sensormodule.lisa_ofilm_s5kgw3_wide.bin
-vendor/lib64/camera/com.qti.sensormodule.lisa_semco_s5kgw3_wide.bin
-vendor/lib64/camera/com.qti.sensormodule.lisa_sunny_s5k3t2_front.bin
-vendor/lib64/camera/com.qti.sensormodule.lisa_sunny_s5k5e9yx04_macro.bin
+vendor/lib64/camera/com.qti.actuator.redwood_ofilm_s5kgw3_dw9800_wide.so
+vendor/lib64/camera/com.qti.actuator.redwood_semco_s5kgw3_dw9800_wide.so
+vendor/lib64/camera/com.qti.eeprom.redwood_ofilm_imx355_gt24p64e_ultra_eeprom.so
+vendor/lib64/camera/com.qti.eeprom.redwood_ofilm_s5k5e9yx04_gt24p64e_macro_eeprom.so
+vendor/lib64/camera/com.qti.eeprom.redwood_ofilm_s5kgw3_gt24p128e_wide_eeprom.so
+vendor/lib64/camera/com.qti.eeprom.redwood_semco_s5kgw3_gt24p128e_wide_eeprom.so
+vendor/lib64/camera/com.qti.eeprom.redwood_sunny_s5k3t2_gt24p64_front_eeprom.so
+vendor/lib64/camera/com.qti.eeprom.redwood_sunny_s5k5e9yx04_gt24p64e_macro_eeprom.so
+vendor/lib64/camera/com.qti.sensor.redwood_ofilm_imx355_ultra.so
+vendor/lib64/camera/com.qti.sensor.redwood_ofilm_s5k5e9yx04_macro.so
+vendor/lib64/camera/com.qti.sensor.redwood_ofilm_s5kgw3_wide.so
+vendor/lib64/camera/com.qti.sensor.redwood_semco_s5kgw3_wide.so
+vendor/lib64/camera/com.qti.sensor.redwood_sunny_s5k3t2_front.so
+vendor/lib64/camera/com.qti.sensor.redwood_sunny_s5k5e9yx04_macro.so
+vendor/lib64/camera/com.qti.sensormodule.redwood_ofilm_imx355_ultra.bin
+vendor/lib64/camera/com.qti.sensormodule.redwood_ofilm_s5k5e9yx04_macro.bin
+vendor/lib64/camera/com.qti.sensormodule.redwood_ofilm_s5kgw3_wide.bin
+vendor/lib64/camera/com.qti.sensormodule.redwood_semco_s5kgw3_wide.bin
+vendor/lib64/camera/com.qti.sensormodule.redwood_sunny_s5k3t2_front.bin
+vendor/lib64/camera/com.qti.sensormodule.redwood_sunny_s5k5e9yx04_macro.bin
 vendor/lib64/camera/com.qti.tuned.default.bin
-vendor/lib64/camera/com.qti.tuned.lisa_ofilm_imx355_ultra.bin
-vendor/lib64/camera/com.qti.tuned.lisa_ofilm_s5k5e9yx04_macro.bin
-vendor/lib64/camera/com.qti.tuned.lisa_ofilm_s5kgw3_wide.bin
-vendor/lib64/camera/com.qti.tuned.lisa_semco_s5kgw3_wide.bin
-vendor/lib64/camera/com.qti.tuned.lisa_sunny_s5k3t2_front.bin
-vendor/lib64/camera/com.qti.tuned.lisa_sunny_s5k5e9yx04_macro.bin
+vendor/lib64/camera/com.qti.tuned.redwood_ofilm_imx355_ultra.bin
+vendor/lib64/camera/com.qti.tuned.redwood_ofilm_s5k5e9yx04_macro.bin
+vendor/lib64/camera/com.qti.tuned.redwood_ofilm_s5kgw3_wide.bin
+vendor/lib64/camera/com.qti.tuned.redwood_semco_s5kgw3_wide.bin
+vendor/lib64/camera/com.qti.tuned.redwood_sunny_s5k3t2_front.bin
+vendor/lib64/camera/com.qti.tuned.redwood_sunny_s5k5e9yx04_macro.bin
 vendor/lib64/camera/fdconfigpreview.bin
 vendor/lib64/camera/fdconfigpreviewlite.bin
 vendor/lib64/camera/fdconfigvideo.bin
@@ -839,7 +839,7 @@ vendor/firmware/a660_zap.b02
 vendor/firmware/a660_zap.elf
 vendor/firmware/a660_zap.mdt
 
-# HotwordEnrollment - from miui_LISAGlobal_V14.0.6.0.TKOMIXM_607b56f4ff_13.0
+# HotwordEnrollment - from miui_redwoodGlobal_V14.0.6.0.TKOMIXM_607b56f4ff_13.0
 -product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk|8ade0dc8f37d68d7e7deaf162cf8badded474673
 -product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk|ecb7a72da92f5fdbf8b842f6fd0043623f508f5e
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|99cfd80965c170f4885a7dd62c0eaad1a0c7840f
